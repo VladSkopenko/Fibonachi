@@ -13,5 +13,6 @@ def fi(n):
         result.append(x)
     return result
 
+
 if __name__ == '__main__':
     print(fi(10))
