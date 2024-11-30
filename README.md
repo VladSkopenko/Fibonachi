@@ -1,2 +1,5 @@
 Варіанти  як вирахувати фібоначі і не осоромитись, як я =)  
-https://understanding-recursion.readthedocs.io/en/latest/11%20Fibonacci%202.html     Детально можна тут розібратись
+https://understanding-recursion.readthedocs.io/en/latest/11%20Fibonacci%202.html     Детально можна тут розібратись  
+
+# Що таке послідовність Фібоначчі?
+Це числова послідовність, у якій кожне число дорівнює сумі двох попередніх чисел
