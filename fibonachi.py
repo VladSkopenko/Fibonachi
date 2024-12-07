@@ -26,7 +26,7 @@ def fibonacci_generator(n):
         a, b = b, a + b
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     print(fibonacci_recursive(10))
     print(fibonacci_iterative(10))
     print(list(fibonacci_generator(10)))

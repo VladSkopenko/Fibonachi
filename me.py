@@ -27,6 +27,6 @@ def fi_recursive(n):
     return previous + [next_value]
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     print(fi(10))
     print(fi_recursive(10))

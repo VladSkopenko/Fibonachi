@@ -30,7 +30,7 @@ def fibonacci_up_to_limit(limit):
     return fib_sequence
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     print(fibonacci_list(10))
     print(fibonacci_generator_list(10))
     print(fibonacci_up_to_limit(35))
